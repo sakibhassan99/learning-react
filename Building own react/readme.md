@@ -1,0 +1,7 @@
+# just made my own small version of react
+
+i made a small version of react where i made a render method and a react create Element method
+it was hard for me since its my first time but i did it obviously i took some help from chatgpt and youtube
+
+but im happy that i just finished it i learned many things while building this project that how react
+works behind the scene 
